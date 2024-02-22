@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rasacr
-- 👀 I’m interested in Pentesting, Cybersecurity
+- 👀 I’m interested in Pentesting, Cybersecurity, Linux, Open Source Tools
 - 🌱 I’m currently learning All about CyberSec
-- 💞️ I’m looking to collaborate on Projects related to Cybersecurity
+- 💞️ I’m looking to collaborate on Projects related to Cybersecurity, Linux & Others
 - 📫 How to reach me rasancr1975@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 
 <!---
